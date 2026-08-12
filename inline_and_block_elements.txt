@@ -1,0 +1,11 @@
+inline elements takes width as required
+examples:
+1.span
+2.a(anchor tag)
+3.strong
+block elements takes whole width
+examples:
+div
+p(paragraph)
+h1
+         
