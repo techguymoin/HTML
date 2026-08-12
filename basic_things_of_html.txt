@@ -1,0 +1,34 @@
+HTML:hyper text markup language 
+CSS:cascading style sheet
+js:javascript
+---------------------
+HTML is used to make the basic structure of a website
+CSS is used to make the design website
+jS is used for makin website dynamic and interactive
+------------------------
+<html></html>
+<head></head>
+<body></body> -------->Example of tags
+<img>
+<link>
+---------------------
+html tag is used for making a webpage
+head contais meta data of the website
+title tags contais the title of the website
+title are used under head tag
+body tag contains the body of the website
+basic structure with a basic code
+
+
+-------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>first html website</title>
+</head>
+<body>
+    <p>Hey this is my first html website</p>
+</body>
+</html>
